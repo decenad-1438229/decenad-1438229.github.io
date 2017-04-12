@@ -1,0 +1,81 @@
+body{
+background-image: url('congruent_pentagon.png');
+}
+p{
+font-size: 12px;
+font-family: Arial;
+ 
+}
+
+h3{
+color: black;
+
+}
+
+li{
+color: white;
+
+}
+
+a{
+	color: white;
+	font-weight:bold;
+	
+}
+	
+#Header{
+	border: solid 8px black;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto:
+	margin-bottom: 10px;
+	
+	text-align: center;
+}
+#Header h1{
+	font-size: 60px;
+	font-family: "fantasy";
+	color: #FFBC00;
+	font-weight: bold;
+
+}
+
+#LeftNav{
+	border: solid 8px black;
+	width: 400px;
+	margin-bottom: 10px;
+	float: left;
+	text-align: center;
+	padding: 8px;
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+	list-style-type: none;
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+	margin top: 10px;
+	width:700px;
+	border: solid 8px black;
+	text-align: center;
+	padding: 15px;
+
+}
+
+#Footer{
+	text-align: center;
+	
+}
+#Footer ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
